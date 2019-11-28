@@ -144,8 +144,22 @@
     text-align:center;
     width:100%;
 }
+.eventh{
+    Font-family:"Trebuchet MS";
+    border-bottom: 1px black solid;
+}
+.card{
+    text-align: center;
+    display:block;
+    left:40px;
+}
 .container{
-
+    text-align:center;
+    display:block;
+    padding:15px;
+}
+.carousel-caption{
+    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
 }
 .container .p{
     Width:70vw;
