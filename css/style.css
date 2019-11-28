@@ -18,7 +18,7 @@
     background-color: #efefef;
     color: whitesmoke;
 }
-.dropdown:hover .ddbtn{
+.dropdownn:hover .ddbtn{
     background-color: #efefef;
 }
 .menu a.active{
@@ -32,13 +32,13 @@
     overflow:hidden;
     width:130px;
 }
-.dropdown{
+.dropdownn{
     float:left;
     overflow:hidden;
     width:130px;
     color:whitesmoke;
 }
-.dropdown .ddbtn{
+.dropdownn .ddbtn{
     font-size:20px;
     border:none;
     outline:none;
@@ -54,6 +54,7 @@
     border:none;
     outline:none;
     text-align:center;
+    color:whitesmoke;
     padding:14px 16px;
     background-color:inherit;
     font-family:inherit;
@@ -78,7 +79,7 @@
 .ddlist a:hover{
     background-color: #4f4f4f;
 }
-.dropdown:hover .ddlist{
+.dropdownn:hover .ddlist{
     display:block;
     background-color: #4f4f4f;
 }
